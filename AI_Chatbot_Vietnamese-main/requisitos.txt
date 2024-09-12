@@ -1,0 +1,17 @@
+pip install torch
+pip install transformers
+pip install nltk
+pip install keyboard
+pip install scikit-learn
+pip install googletrans==4.0.0-rc1
+
+pip install torch transformers nltk keyboard scikit-learn googletrans==4.0.0-rc1
+
+1. training_phobert
+  cambiar epochs
+2. training_neuralnetwork
+  import nltk
+  nltk.download('punkt_tab')
+  cambiar epochs
+3. chat
+  import keyboard 
